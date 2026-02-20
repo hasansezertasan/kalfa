@@ -1,6 +1,6 @@
 [project]
 name = "kalfa"
-version = "2026.02.19"
+version = "2026.02.20"
 description = "My kalfa once said..."
 readme = "README.md"
 authors = [{ name = "Hasan Sezer Taşan", email = "hasansezertasan@gmail.com" }]
